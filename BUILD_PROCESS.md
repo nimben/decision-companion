@@ -1,0 +1,1 @@
+A Decision Companion System that helps readers choose the most suitable next book based on cognitive state, emotional intent, time constraints, and reading goals.
